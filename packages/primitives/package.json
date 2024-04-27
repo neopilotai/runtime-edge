@@ -1,6 +1,6 @@
 {
   "name": "@runtime-edge/primitives",
-  "description": "A set of primitives to build Vercel Edge Runtime.",
+  "description": "A set of primitives to build Vercel Runtime Edge.",
   "homepage": "https://runtime-edge.vercel.app/packages/primitives",
   "version": "4.1.0",
   "main": "dist/index.js",

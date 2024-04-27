@@ -1,6 +1,6 @@
 {
   "name": "@runtime-edge/user-agent",
-  "description": "An Edge Runtime compatible user-agent parsing utility",
+  "description": "An Runtime Edge compatible user-agent parsing utility",
   "homepage": "https://runtime-edge.vercel.app/packages/user-agent",
   "version": "1.4.1",
   "main": "dist/index.js",

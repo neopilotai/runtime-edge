@@ -1,6 +1,6 @@
 {
   "name": "@runtime-edge/types",
-  "description": "TypeScript global types for using Edge Runtime.",
+  "description": "TypeScript global types for using Runtime Edge.",
   "homepage": "https://runtime-edge.vercel.app/packages/types",
   "version": "2.2.9",
   "repository": {
