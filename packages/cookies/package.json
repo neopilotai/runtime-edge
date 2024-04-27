@@ -1,0 +1,51 @@
+{
+  "name": "@runtime-edge/cookies",
+  "description": "Cookie helpers compatible with Edge Runtime",
+  "homepage": "https://edge-runtime.vercel.app/packages/cookies",
+  "version": "4.1.1",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "repository": {
+    "directory": "packages/cookies",
+    "type": "git",
+    "url": "git+https://github.com/khulnasoft/runtime-edge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/khulnasoft/runtime-edge/issues"
+  },
+  "keywords": [
+    "cookie",
+    "cookies",
+    "edge",
+    "edge-runtime",
+    "functions",
+    "runtime",
+    "set-cookie",
+    "standard",
+    "web"
+  ],
+  "devDependencies": {
+    "@runtime-edge/format": "workspace:*",
+    "@runtime-edge/jest-environment": "workspace:*",
+    "@types/cookie": "0.6.0",
+    "tsup": "8"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "clean:build": "rm -rf dist",
+    "clean:node": "rm -rf node_modules",
+    "prebuild": "pnpm run clean:build",
+    "test": "jest"
+  },
+  "license": "MPL-2.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "types": "dist/index.d.ts"
+}
