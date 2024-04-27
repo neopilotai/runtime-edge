@@ -5,7 +5,7 @@
   <br>
   <br>
   <p align="center"><strong>@runtime-edge/ponyfill</strong>: A ponyfill (doesn't overwrite the native methods) to use Edge Runtime APIs in any environment.</p>
-  <p align="center">See <a href="https://edge-runtime.vercel.app/packages/ponyfill" target='_blank' rel='noopener noreferrer'>@runtime-edge/ponyfill</a> section in our <a href="https://edge-runtime.vercel.app/" target='_blank' rel='noopener noreferrer'>website</a> for more information.</p>
+  <p align="center">See <a href="https://runtime-edge.vercel.app/packages/ponyfill" target='_blank' rel='noopener noreferrer'>@runtime-edge/ponyfill</a> section in our <a href="https://runtime-edge.vercel.app/" target='_blank' rel='noopener noreferrer'>website</a> for more information.</p>
   <br>
 </div>
 

@@ -1,11 +1,11 @@
 {
-  "name": "edge-runtime",
+  "name": "runtime-edge",
   "description": "Run any Edge Function from CLI or Node.js module.",
-  "homepage": "https://edge-runtime.vercel.app/packages/runtime",
+  "homepage": "https://runtime-edge.vercel.app/packages/runtime",
   "version": "2.5.9",
   "main": "dist/index.js",
   "bin": {
-    "edge-runtime": "dist/cli/index.js"
+    "runtime-edge": "dist/cli/index.js"
   },
   "repository": {
     "directory": "packages/runtime",
@@ -17,7 +17,7 @@
   },
   "keywords": [
     "edge",
-    "edge-runtime",
+    "runtime-edge",
     "functions",
     "runtime",
     "standard",

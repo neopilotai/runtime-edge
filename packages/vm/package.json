@@ -1,7 +1,7 @@
 {
   "name": "@runtime-edge/vm",
   "description": "Low level bindings for creating Web Standard contexts.",
-  "homepage": "https://edge-runtime.vercel.app/packages/vm",
+  "homepage": "https://runtime-edge.vercel.app/packages/vm",
   "version": "3.2.0",
   "main": "dist/index.js",
   "repository": {
@@ -15,7 +15,7 @@
   "keywords": [
     "context",
     "edge",
-    "edge-runtime",
+    "runtime-edge",
     "functions",
     "runtime",
     "standard",

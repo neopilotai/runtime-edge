@@ -6,7 +6,7 @@
   "node-utils": "@runtime-edge/node-utils",
   "ponyfill": "@runtime-edge/ponyfill",
   "primitives": "@runtime-edge/primitives",
-  "runtime": "edge-runtime",
+  "runtime": "runtime-edge",
   "types": "@runtime-edge/types",
   "user-agent": "@runtime-edge/user-agent",
   "vm": "@runtime-edge/vm"
