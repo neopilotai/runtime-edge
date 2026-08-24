@@ -28,7 +28,7 @@
     "ts-jest": "29.2.5",
     "ts-node": "10.9.2",
     "turbo": "latest",
-    "typescript": "latest"
+    "typescript": "5.9.3"
   },
   "engines": {
     "node": ">=18"
