@@ -32,6 +32,10 @@
   "files": [
     "dist"
   ],
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.0.0"
+  },
   "scripts": {
     "build": "tsup",
     "clean": "pnpm run clean:node && pnpm run clean:build",
